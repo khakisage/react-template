@@ -81,7 +81,7 @@
 				"useValidTypeof": "error"
 			}
 		},
-		"ignore": ["**/dist", "**/.eslintrc.cjs"]
+		"ignore": ["**/dist", "**/.eslintrc.cjs", "./src/Build/**"]
 	},
 	"javascript": {
 		"formatter": {
